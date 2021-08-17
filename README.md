@@ -14,4 +14,4 @@ El proyecto fue creado con:
 *bootstrap
 -Mysql
 
-El archivo contiene imágenes del sistema.
+El archivo "TT" contiene imágenes del sistema.
