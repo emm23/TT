@@ -7,7 +7,10 @@ El proyecto fue creado con:
 *scikitlearn
 *tensorflow
 *nltk
+*pandas
+*plotly
 -JavaScript
 *jquery
 *bootstrap
 -Mysql
+El archivo contiene imágenes del sistema.
