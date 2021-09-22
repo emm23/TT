@@ -1,17 +1,17 @@
 # TT
-Trabajo creado para las materias de TT1 y TT2 en la ESCOM-IPN.
+Trabajo creado para las materias de *TT1* y *TT2* en la ***ESCOM-IPN***.
 
 ### **El proyecto fue creado con:**
 - **Python** 
   - Flask
-  - scikitlearn
-  - tensorflow
-  - nltk
-  - pandas
-  - plotly
+  - scikit\-learn
+  - TensorFlow
+  - NLTK
+  - Pandas
+  - Plotly
 - **JavaScript**
-  - jquery
-  - bootstrap
-- **Mysql**
+  - jQuery
+  - Bootstrap
+- **MySql**
 
-El archivo "TT" contiene imágenes del sistema.
+El archivo "TT.pdf" contiene imágenes del sistema.
